@@ -11,6 +11,9 @@ const config: Config = {
       spacing: {
         24: "92px",
       },
+      animation: {
+        flash: 'flash 2s ease-in-out infinite',
+      }
     },
   },
   plugins: [],
